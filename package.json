@@ -1,0 +1,34 @@
+{
+    "name": "8-bit-e-ink-color",
+    "displayName": "8-Bit E-Ink Color",
+    "description": "Theme for e-ink color displays.",
+    "version": "0.0.1",
+    "publisher": "davidzanger",
+    "engines": {
+        "vscode": "^1.91.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "8-Bit E-Ink Color Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/8-bit-e-ink-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/davidzanger/8-Bit-E-Ink-Color.git"
+    },
+    "keywords": [
+        "8-bit",
+        "e-ink",
+        "color",
+        "theme",
+        "paperlike",
+        "dasung"
+    ]
+}
