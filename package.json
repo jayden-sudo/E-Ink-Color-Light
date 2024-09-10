@@ -2,7 +2,7 @@
     "name": "8-bit-e-ink-color",
     "displayName": "8-Bit E-Ink Color",
     "description": "Theme for e-ink color displays.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "davidzanger",
     "engines": {
         "vscode": "^1.91.0"
