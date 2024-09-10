@@ -4,7 +4,7 @@ All notable changes to the "8-bit-e-ink-color" extension will be documented in t
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## v0.0.2 - 2024-09-10
+## v0.0.3 - 2024-09-10
 
 ### Changed
 
