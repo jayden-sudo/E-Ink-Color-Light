@@ -1,31 +1,32 @@
 {
-    "name": "8-bit-e-ink-color",
-    "displayName": "8-Bit E-Ink Color",
+    "name": "e-ink-color-light",
+    "displayName": "E-Ink Color Light",
     "description": "Theme for e-ink color displays.",
-    "version": "0.0.3",
-    "publisher": "davidzanger",
+    "version": "0.0.1",
+    "publisher": "Jayden",
     "engines": {
         "vscode": "^1.91.0"
     },
     "icon": "assets/theme_logo.png",
     "categories": [
         "Themes"
-    ],
+    ],	"scripts": {
+		"build": "rm ./*.vsix;vsce package"
+	},
     "contributes": {
         "themes": [
             {
-                "label": "8-Bit E-Ink Color Dark",
-                "uiTheme": "hc-black",
-                "path": "./themes/8-bit-e-ink-color-theme.json"
+                "label": "E-Ink Color Light",
+                "uiTheme": "hc-light",
+                "path": "./themes/e-ink-color-light-theme.json"
             }
         ]
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/davidzanger/8-Bit-E-Ink-Color.git"
+        "url": "http://github.com/jayden-sudo/E-Ink-Color-Light.git"
     },
     "keywords": [
-        "8-bit",
         "e-ink",
         "color",
         "theme",

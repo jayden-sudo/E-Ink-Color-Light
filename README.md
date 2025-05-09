@@ -1,4 +1,4 @@
-# 8-Bit E-Ink Color Theme
+# E-Ink Color Theme
 
 This is a theme for e-ink color displays, such as the Dasung Paperlike Color. It is based on the 8 Bit color theme by [Zhou Qi](https://github.com/HandsomeOne/8bit).
 
