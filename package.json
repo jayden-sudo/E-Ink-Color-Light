@@ -2,7 +2,7 @@
     "name": "e-ink-color-light",
     "displayName": "E-Ink Color Light",
     "description": "Theme for e-ink color displays.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "Jayden",
     "engines": {
         "vscode": "^1.91.0"
